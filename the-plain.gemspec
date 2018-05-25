@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
 	spec.name          = "the-plain"
-	spec.version       = "3.1.0.2"
+	spec.version       = "3.1.0.3"
 	spec.authors       = ["Heiswayi Nrird"]
 	spec.email         = ["hnrird@gmail.com"]
 
